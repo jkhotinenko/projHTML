@@ -1,0 +1,42 @@
+.main{
+    width:100%;
+    background: silver;
+    height: 100vh;
+}
+
+.first{
+    background: chartreuse;
+    width 100%;
+    height: 150px;
+}
+.second{
+    width:100%;
+    background: blue;
+    display: flex;
+    justify-content: center;
+}
+.dntop{
+    width:100%;
+    height:100px;
+    background: bisque;
+}
+.trp{
+    width:100%;
+    height:100px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.left{
+    width:75%;
+    height:200px;
+    background: orange;
+}
+.right{
+    width:25%;
+    height:200px;
+    background: brown;
+}
+.btm{ width:29%;
+    height: 100px;
+    background: fuchsia;
+}
