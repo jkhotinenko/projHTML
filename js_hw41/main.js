@@ -1,5 +1,5 @@
 // - За допомогою циклу for і document.write() вивести 10 блоків div c довільним текстом всередині
-let i=0;
+let i;
 
 for (i=0;i<10;i++) {
  document.write('<div>  Text number № ',i+1,'</div>');
