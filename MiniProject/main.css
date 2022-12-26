@@ -1,0 +1,24 @@
+.main_title{
+    text-align: center;
+
+}
+.users{
+    display: flex;
+    justify-content: space-evenly;
+}
+.ppl{
+  border: 2px dotted green;
+}
+.posts{
+    display:flex;
+    justify-content: space-evenly;
+}
+.pst{
+    border: 2px dotted red;
+}
+.main_comm{
+    border: 2px double blue;
+}
+.comm{
+    font-size: 20px;
+}
